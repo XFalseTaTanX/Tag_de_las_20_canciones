@@ -1,0 +1,28 @@
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    background-color: blueviolet;
+}
+
+.boton{
+    background-color: red;
+}
+
+a{
+    color: white    ;
+}
+
+.cuerpo{
+    color: blueviolet;
+}
+
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/04/10/17/95/360_F_410179527_ExxSzamajaCtS16dyIjzBRNruqlU5KMA.jpg);
+}
+
+.tabla{
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+}
+
